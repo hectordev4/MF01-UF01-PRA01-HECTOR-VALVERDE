@@ -13,7 +13,31 @@ This is my **10-week plan** for the upcoming *SCRUM sprints*.
 
 > "Transcendence. Great teams have a purpose that is greater than the individual" - <i>Jeff Sutherland in "Scrum: The Art of Doing Twice the Work in Half the Time"</i>
 
-Sample code block:
+
+| Sprint | Start Date |  End Date  | Main Goal |
+|--------|------------|------------|-----------|
+| 1      | 1-7-2025   | 1-11-2025  |
+| 2      | 1-13-2025  | 1-18-2025  |
+| 3      | 1-20-2025  | 1-25-2025  |
+| 4      | 1-27-2025  | 2-1-2025   |
+| 5      | 2-3-2025   | 2-8-2025   |
+| 6      | 2-10-2025  | 2-15-2025  |
+| 7      | 2-17-2025  | 2-22-2025  |
+| 8      | 2-24-2025  | 3-1-2025   |
+| 9      | 3-3-2025   | 3-8-2025   |
+| 10     | 3-10-2025  | 3-15-2025  |
+
+
+Project Roadmap
+### Milestones
+1. **React.js**: Fully understand all basics from React.js documentation and implement a simple React.js application.
+2. **SCRUM/Agile**: Read and understand the SCRUM/Agile methodology. Memo the 4 pillars of SCRUM: Roles, Artifacts, Events, and Rules.
+3. **Java**: Learn the basics of Java, including variables, data types, operators, control structures, functions, and object-oriented programming concepts.
+4. **Team Project**: Create and develop an idea for a team project that incorporates the skills learned in the previous sprints.
+5. **.**
+
+
+###Sample code block:
 
 ```
 
@@ -83,24 +107,13 @@ export default function Gallery() {
 }
 
 ```
-| Sprint | Start Date |  End Date  | Main Goal |
-|--------|------------|------------|-----------|
-| 1      | 1-7-2025   | 1-11-2025  |
-| 2      | 1-13-2025  | 1-18-2025  |
-| 3      | 1-20-2025  | 1-25-2025  |
-| 4      | 1-27-2025  | 2-1-2025   |
-| 5      | 2-3-2025   | 2-8-2025   |
-| 6      | 2-10-2025  | 2-15-2025  |
-| 7      | 2-17-2025  | 2-22-2025  |
-| 8      | 2-24-2025  | 3-1-2025   |
-| 9      | 3-3-2025   | 3-8-2025   |
-| 10     | 3-10-2025  | 3-15-2025  |
+### Useful Links
 
-```
-Project Roadmap
-### Milestones
-1. **React.js**: Fully understand all basics from React.js documentation and implement a simple React.js application.
-2. **SCRUM/Agile**: Read and understand the SCRUM/Agile methodology. Memo the 4 pillars of SCRUM: Roles, Artifacts, Events, and Rules.
-3. **Java**: Learn the basics of Java, including variables, data types, operators, control structures, functions, and object-oriented programming concepts.
-4. **Team Project**: Create and develop an idea for a team project that incorporates the skills learned in the previous sprints.
-5. **.**
+- [React Exercises](https://react.dev/learn/)
+- [Java Documentation & Exercises](https://www.w3schools.com/java)
+- [Revision & Correction by CHATGPT](https://chatgpt.com/)
+
+### Additional Notes
+- Ensure weekly commits to GitHub to showcase progress.
+- Document learning and codebase using **Markdown** and **Quarto**.
+:::
