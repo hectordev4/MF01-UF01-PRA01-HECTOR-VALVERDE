@@ -111,6 +111,8 @@ export default function Gallery() {
   );
 }
 
+```
+
 ### Useful Links
 
 - [React Exercises](https://react.dev/learn/)
@@ -120,4 +122,3 @@ export default function Gallery() {
 ### Additional Notes
 - Ensure weekly commits to GitHub to showcase progress.
 - Document learning and codebase using **Markdown** and **Quarto**.
-:::
